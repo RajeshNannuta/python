@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 08 17:01:25 2018
-
-@author: RAVITHEJA
-"""
 
 import os
 import json
