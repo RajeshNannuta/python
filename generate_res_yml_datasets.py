@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 05 16:01:02 2018
 
-@author: ADMIN
-"""
 import json
 import os
 import yaml,random
