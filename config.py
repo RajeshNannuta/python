@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 14 10:07:02 2017
-
-@author: RAVITHEJA
-"""
 
 import os
 
