@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 20 09:00:10 2017
 
-@author: RAVITHEJA
-"""
 
 import logging
 import json
