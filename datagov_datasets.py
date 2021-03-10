@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 26 15:50:27 2018
 
-@author: RAVITHEJA
-"""
 
 import requests
 import urllib
