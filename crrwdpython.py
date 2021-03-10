@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 28 12:53:46 2018
 
-@author: ADMIN
-"""
 import requests
 from bs4 import BeautifulSoup
 import urllib
